@@ -8,7 +8,6 @@ I've been coding for 3 years now , I have my 3 apps running over playstore and h
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [mehtavansh77@gmail.com](mailto:mehtavansh77@gmail.com)
-* 🚀  I'm currently working on [JMtechnovations](http://jmtechnovations.com)
 * 🧠  I'm learning Three.js
 * 🤝  I'm open to collaborating on Web Dev , Android Dev and Arduino/Embedded Development
 * ⚡  I am a calm and happy guy , but after we gel up you will meet a new me ;)

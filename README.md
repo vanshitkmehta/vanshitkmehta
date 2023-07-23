@@ -4,10 +4,10 @@ Hi 👋 My name is Vanshit Mehta
 Full - Stack Developer , Android & Embedded Enthusiast.
 -------------------------------------------------------
 
-I've been coding for 3 years now , also i am very passionate about remote work , opportunities are gladly welcome
-Professionally work as a Web Developer
-Good in Data Structures and Algorithm 
-Passionate for Android Development and Building Physical Electronics Products (Arduino , Raspberry Pi , ESP etc - just for fun ;) )
+I've been coding for 3 years now , also i am very passionate about remote work , opportunities are gladly welcome.<br>
+Professionally Domain Of Work - Web Developer.<br>
+Good in Data Structures and Algorithm .<br>
+Passionate for Android Development and Building Physical Electronics Products (Arduino , Raspberry Pi , ESP etc - just for fun ).
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [mehtavansh77@gmail.com](mailto:mehtavansh77@gmail.com)

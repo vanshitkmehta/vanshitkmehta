@@ -11,7 +11,7 @@ Passionate for Android Development and Building Physical Electronics Products (A
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [mehtavansh77@gmail.com](mailto:mehtavansh77@gmail.com)
-* 🧠  I'm learning Three.js
+* 🧠  I'm getting better in Web Development
 * 🤝  I'm open to collaborating on Web Dev 
 * ⚡  Apple had Steve Jobs then came Eric Bachman 🤣
 

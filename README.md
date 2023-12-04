@@ -1,18 +1,16 @@
 Hi 👋 My name is Vanshit Mehta
 ==============================
 
-Full - Stack Developer , Android & Embedded Enthusiast.
+Full - Stack Developer.
 -------------------------------------------------------
 
-I've been coding for 3 years now , also i am very passionate about remote work , opportunities are gladly welcome.<br>
-Professionally Domain Of Work - Web Developer.<br>
-Good in Data Structures and Algorithm .<br>
-Passionate for Android Development and Building Physical Electronics Products (Arduino , Raspberry Pi , ESP etc - just for fun ).
+I've been coding for 3 years now , I love to learn and uphill tasks are always welcome as they give a kick to me .<br>
+I am decent in Data Structures and Algorithm but probably by the time you are reading this i would have become more better :)<br>
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [mehtavansh77@gmail.com](mailto:mehtavansh77@gmail.com)
-* 🧠  I'm getting better in Web Development
-* 🤝  I'm open to collaborating on Web Dev 
+* 🧠  I'm getting better in Full Stack Development.
+* 🤝  I'm open to collaborating on Web Projects , Open Source Projects and Blog Posts.
 * ⚡  Apple had Steve Jobs then came Eric Bachman 🤣
 
 ### Begginer Skills
@@ -40,11 +38,11 @@ Passionate for Android Development and Building Physical Electronics Products (A
 ### Socials
 
 <p align="left"> 
-<a href="https://www.github.com/vanshmehta005" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
+<a href="https://www.github.com/vanshikmehta" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
 <a href="http://www.instagram.com/vanshmehta005" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
 <a href="https://www.linkedin.com/in/vanshitmehta" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
 <a href="https://www.youtube.com/c/UCY1jnYDEiPal1w0vHzbIs-w" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
 
 ### Support Me
 
-If you would really feel like supporting me . Just Connect with me and let's collaborate and build 💯
+If you find me intresting . Connect with me , let's collaborate and build 💯

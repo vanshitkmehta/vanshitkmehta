@@ -45,4 +45,4 @@ I am decent in Data Structures and Algorithm but probably by the time you are re
 
 ### Support Me
 
-If you find me intresting . Connect with me , let's collaborate and build 💯
+If you find me interesting . Connect with me , let's collaborate and build 💯

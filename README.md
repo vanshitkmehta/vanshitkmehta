@@ -1,16 +1,15 @@
 Hi 👋 My name is Vanshit Mehta
 ==============================
 
-Full - Stack Developer.
+Backend Developer (Trying for FullStack Now)
 -------------------------------------------------------
 
-I've been coding for 3 years now , I love to learn and uphill tasks are always welcome as they give a kick to me .<br>
-I am decent in Data Structures and Algorithm but probably by the time you are reading this i would have become more better :)<br>
+Developing since half a decade , learning attitude .<br>
+I'm decent in DS/Algo , probably by the time you are reading this I would have become better :)<br>
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [mehtavansh77@gmail.com](mailto:mehtavansh77@gmail.com)
-* 🧠  I'm getting better in Full Stack Development.
-* 🤝  I'm open to collaborating on Web Projects , Open Source Projects and Blog Posts.
+* ✉️  You can contact me at [vanshkmehta08@gmail.com](mailto:vanshkmehta08@gmail.com)
+* 🧠  Exploring the Fast Changing world of Software.
 * ⚡  Apple had Steve Jobs then came Eric Bachman 🤣
 
 ### Begginer Skills
@@ -19,8 +18,6 @@ I am decent in Data Structures and Algorithm but probably by the time you are re
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
-<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
 </p>
 
 ### Strong Skills
@@ -38,10 +35,9 @@ I am decent in Data Structures and Algorithm but probably by the time you are re
 ### Socials
 
 <p align="left"> 
-<a href="https://www.github.com/vanshikmehta" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
-<a href="http://www.instagram.com/vanshmehta005" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
+<a href="http://www.instagram.com/vanshitkmehta" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
 <a href="https://www.linkedin.com/in/vanshitmehta" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
-<a href="https://www.youtube.com/c/UCY1jnYDEiPal1w0vHzbIs-w" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+</p>
 
 ### Support Me
 
